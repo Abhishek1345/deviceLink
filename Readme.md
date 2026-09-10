@@ -1,3 +1,16 @@
-#DEVICE CONNECT
-The future scope of this project is to establish control between 2 devices , for example , a laptop and an android.
-Currently this supports sending files from laptop to an android device.
+# Device Connect
+
+## Overview
+
+**Device Connect** is a project focused on establishing communication and control between two devices, such as a **laptop** and an **Android device**.
+
+## Current Features
+
+At present, the project supports:
+
+*Sending files from a **laptop** to an **Android device**
+
+## Future Scope
+
+The future goal of this project is to enable seamless **device-to-device communication and control**, allowing connected devices to interact with and control each other including shell control and file editing.
+
