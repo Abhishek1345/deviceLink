@@ -15,7 +15,7 @@ const io = new Server(httpServer, {
 
 io.on('connection', (socket) => {
   console.log(`Device connected: ${socket.id}`);
-  const filePath='C:/Users/ABHISHEK/Downloads/Resume Google AE.pdf';
+
  
   socket.on('device_message', (data) => {
     console.log('Received:', data);
