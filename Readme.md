@@ -1,8 +1,8 @@
-# Device Connect
+# Device Link
 
 ## Overview
 
-**Device Connect** is a project focused on establishing communication and control between two devices, such as a **laptop** and an **Android device**.
+**Device Link** is a project focused on establishing communication and control between two devices, such as a **laptop** and an **Android device**.
 
 ## Current Features
 
