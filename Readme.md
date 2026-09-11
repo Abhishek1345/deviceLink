@@ -2,13 +2,13 @@
 
 ## Overview
 
-**Device Link** is a project focused on establishing communication and control between two devices, such as a **laptop** and an **Android device**.
+**Device Link** is a project focused on establishing communication and control between two devices, such as a **PC** and an **Android device**.
 
 ## Current Features
 
 At present, the project supports:
 
-*Sending files from a **laptop** to an **Android device**
+*Sending files from a **Windows machine** to an **Android device**
 
 ## Future Scope
 
